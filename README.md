@@ -9,6 +9,7 @@
 | 文件 | 说明 |
 |---|---|
 | `blackfridaycampaignperformanceevaluation.ipynb` | 主分析 Notebook，包含完整分析过程与可视化 |
+| [评估仪表盘](https://oiiviio1313-wq.github.io/analytics-dashboard-project-demo/project-1/) | (https://oiiviio1313-wq.github.io/analytics-dashboard-project-demo/project-1/) |
 | `olist_black_friday_performance.twb` | Tableau 交互式仪表盘源文件 |
 |`blackfriday_dashboard.html` | [Antvis Skill](https://github.com/antvis/chart-visualization-skills) 辅助搭建报表 |
 ---
